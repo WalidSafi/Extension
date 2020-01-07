@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "Hello World",
+  "name": "Weather Application",
   "version": "1.0",
-  "description": "First extention",
+  "description": "Weather Application extention",
   "icons": {
     "128": "icon128.png",
     "48": "icon48.png",
