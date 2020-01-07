@@ -1,0 +1,121 @@
+html, body {
+  padding: 0px;
+  margin: 0px;
+  min-width: 400px;
+  min-height: 300px;
+  align: center;
+}
+.WeatherIcon{
+  float: left;
+  color: #D5DBDB;
+  background: #2E4053;
+  margin-top: 0;
+  margin-left: 0;
+  width: 200px;
+  height: 200px;
+}
+.ic{
+  vertical-align: middle;
+  border-style: none;
+  height: auto;
+  width: 90px;
+  height: 90px;
+}
+.Degrees{
+  color: #D5DBDB;
+  background: #212F3D;
+  margin-top: 0;
+  margin-right: 0;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+}
+.DayOne{
+  background: #D5DBDB ;
+  margin-bottom: 0;
+  margin-left: 0;
+  width: 80px;
+  height: 100px;
+  overflow: hidden;
+  float: left;
+}
+.DayTwo{
+  background: #BFC9CA;
+  margin-bottom: 0;
+  margin-left: 0;
+  width: 80px;
+  height: 100px;
+  overflow: hidden;
+  float: left;
+}
+.DayThree{
+  background: #AAB7B8;
+  margin-bottom: 0;
+  margin-left: 0;
+  width: 80px;
+  height: 100px;
+  overflow: hidden;
+  float: left;
+}
+.DayFour{
+  background: #95A5A6;
+  margin-bottom: 0;
+  margin-left: 0;
+  width: 80px;
+  height: 100px;
+  overflow: hidden;
+  float: left;
+}
+.DayFive{
+  background: #839192;
+  margin-bottom: 0;
+  margin-left: 0;
+  width: 80px;
+  height: 100px;
+  overflow: hidden;
+  float: left;
+}
+.con {
+  margin: 0 auto;
+  width: 400px;
+  height: 300px;
+  background: gray;
+}
+h2 {
+  font-family: Verdana;
+  text-align: center;
+}
+.degree {
+  font-family: Verdana;
+  text-align: center;
+  font-size: 50px;
+  overflow: hidden;
+
+}
+h4 {
+  margin-bottom: 0;
+  margin-left: 0;
+  overflow: hidden;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+p {
+  margin-top: -5px;
+  text-align: center;
+  color: white;
+  font-size: 15px;
+}
+#minmax {
+  text-align: center;
+  color: #D5DBDB;
+}
+h4 {
+  text-align: center;
+  color: black;
+  font-size: 30px;
+  margin-top: 0px;
+}
